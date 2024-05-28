@@ -1,5 +1,5 @@
 The Application is hosted on Render.
-LInk :- https://weather-app-i3h9.onrender.com
+Link :- https://weather-app-i3h9.onrender.com
 
 
 # Getting Started with Create React App
