@@ -1,3 +1,7 @@
+The Application is hosted on Render.
+LInk :- https://weather-app-i3h9.onrender.com
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
