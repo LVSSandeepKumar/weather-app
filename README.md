@@ -1,5 +1,77 @@
-The Application is hosted on Render.
-Link :- https://weather-app-i3h9.onrender.com
+# Weather App
+
+## Overview
+This is a weather application built using React and the OpenWeather API. It allows users to check the current weather conditions in various locations.
+
+## Table of Contents
+1. [Features](#features)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [File Structure](#file-structure)
+5. [Deployment](#deployment)
+6. [Key Coding Takeaways](#key-coding-takeaways)
+7. [Contributing](#contributing)
+8. [Acknowledgements](#acknowledgements)
+
+## Features
+- Fetches current weather data from OpenWeather API
+- User-friendly interface
+- Responsive design for various devices
+
+## Installation
+### Prerequisites
+- Node.js and npm installed
+
+### Steps
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/LVSSandeepKumar/weather-app.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd weather-app
+    ```
+3. Install the dependencies:
+    ```sh
+    npm install
+    ```
+4. Start the application:
+    ```sh
+    npm start
+    ```
+5. Open [http://localhost:3000](http://localhost:3000) in your web browser to view the application.
+
+## Usage
+After starting the application, enter the name of the city in the search bar to get the current weather information.
+
+## File Structure
+The file structure includes:
+- **public/**: Public assets and HTML files.
+  - **index.html**: Main HTML file.
+- **src/**: Source code for the application.
+  - **components/**: Reusable React components.
+  - **pages/**: Main pages of the application.
+  - **styles/**: CSS files for styling the application.
+  - **utils/**: Utility functions and helpers.
+- **.gitignore**: Git ignore file.
+- **package.json**: Project metadata and dependencies.
+- **README.md**: Project documentation.
+
+## Deployment
+This project is deployed at [Weather App on Render](https://weather-app-i3h9.onrender.com).
+
+## Key Coding Takeaways
+- **React Components**: Efficient use of functional components for modular and reusable code.
+- **API Integration**: Fetching and handling data from the OpenWeather API.
+- **State Management**: Managing state using React hooks for dynamic UI updates.
+- **Responsive Design**: Implementing responsive design principles for a better user experience.
+
+## Contributing
+Contributions are welcome! Please fork this repository and submit a pull request.
+
+## Acknowledgements
+- Built using React and the OpenWeather API.
+
 
 
 # Getting Started with Create React App
